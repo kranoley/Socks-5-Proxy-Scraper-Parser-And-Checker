@@ -50,21 +50,22 @@ Modern proxy collection and validation tool with beautiful CLI interface
 Python 3.8+
 ```
 
-### Quick Setup
+
+---
+
+### 🛠️ Quick Setup
 
 ```bash
-# Clone repository
-git clone https://github.com/kranoley/Proxy-Scraper-Parser-And-Checker
-cd proxy-tool
+# Clone or Download the Repository
 
-# Install dependencies
+git clone https://github.com/kranoley/Proxy-Scraper-Parser-And-Checker.git
+
+cd Proxy-Scraper-Parser-And-Checker
+
 pip install -r requirements.txt
 
-# Run
 python main.py
 ```
-
-
 
 
 ---
